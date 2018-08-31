@@ -21,7 +21,10 @@ collaborative_notes: docs.google.com/foo            # optional: URL for the work
 
 {% comment %}
   HEADER
+
 this takes forever!
+
+THIS IS A PRACTICE SESSION SO IT'S NOT FOR A REAL THING
 
   Edit the values in the block above to be appropriate for your workshop.
   If the value is not 'true', 'false', 'null', or a number, please use
